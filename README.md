@@ -14,11 +14,13 @@ and also bug free code.
 | php        | &#9745; |
 | python     | &#9745; |
 | ruby       | &#9745; |
+| c          | &#9745; |
 
 
 ## Credit
- - [Rafi ahmed](https://github.com/hasanmisbah)
+ - [Rafi ahmed](https://github.com/rafiahmedd)
  - [Hasan Misbah](https://github.com/hasanmisbah)
+ - [Amimul Ihsan](https://github.com/aimahdi)
  - maybe you
 
 
