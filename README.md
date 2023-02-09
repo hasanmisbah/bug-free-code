@@ -21,7 +21,8 @@ and also bug free code.
  - [Rafi ahmed](https://github.com/rafiahmedd)
  - [Hasan Misbah](https://github.com/hasanmisbah)
  - [Amimul Ihsan](https://github.com/aimahdi)
- - maybe you
+ - [Sukanta Purkayastha](https://github.com/sukanta7660)
+ - maybe you, let's commit first
 
 
 ## License
