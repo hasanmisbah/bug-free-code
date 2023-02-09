@@ -22,7 +22,7 @@ and also bug free code.
  - [Hasan Misbah](https://github.com/hasanmisbah)
  - [Amimul Ihsan](https://github.com/aimahdi)
  - [Sukanta Purkayastha](https://github.com/sukanta7660)
- - maybe you
+ - maybe you, let's commit first
 
 ## License
 [MIT](https://hasan.mit-license.org/)
